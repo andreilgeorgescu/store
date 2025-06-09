@@ -1,0 +1,7 @@
+### Cloudflare ###
+# env
+.dev.vars
+
+# generated
+.wrangler/
+worker-configuration.d.ts

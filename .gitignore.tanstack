@@ -1,4 +1,6 @@
 ### Tanstack ###
 # generated
+.nitro/
+.output/
 .tanstack/
 routeTree.gen.ts

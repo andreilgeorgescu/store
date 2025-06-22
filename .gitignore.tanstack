@@ -1,4 +1,4 @@
 ### Tanstack ###
 # generated
 .tanstack/
-routeTree.gen
+routeTree.gen.ts

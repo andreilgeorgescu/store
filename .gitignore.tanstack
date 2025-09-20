@@ -4,4 +4,4 @@
 .nitro/
 .output/
 .tanstack/
-*/routeTree.gen.ts
+routeTree.gen.ts
